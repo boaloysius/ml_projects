@@ -1,5 +1,5 @@
 # Projects
-## 1\. Breast Cancer Classification - SVM
+## 1\. <a href="Breast%20Cancer%20Classification">Breast Cancer Classification</a> - SVM
 
 As from [World Cancer Research Fund](https://www.wcrf.org/dietandcancer/breast-cancer), Breast cancer is the most common cancer in women worldwide, with nearly 1.7 million new cases diagnosed in 2012, representing about 25 per cent of all cancers in women. Early diagnosis significantly increases the chances of survival.
 
