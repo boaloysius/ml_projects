@@ -9,4 +9,4 @@ Let's take a look at the cancer diagnosis and classification process. The first 
 
 **_Benign_** means the tumor is kind of not spreading across the bodies of the patient. So the patient is safe somehow. **_Malignant_** means it is cancerous. That means we need to intervene and actually stop the cancer growth.
 
-## ![](/images/procedure.png)
+## ![](Breast Cancer Classification/images/procedure.png)
